@@ -30,14 +30,9 @@
 <p><a href="https://www.buymeacoffee.com/badoalmaz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="badoalmaz" /></a></p><br><br>
 
 
-<div>
 <p><img height="200" width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badoalmaz&show_icons=true&locale=en&layout=compact" alt="badoalmaz" /></p>
-</div>
 
-<br/>
-<div>
-<p>&nbsp;<img height="200" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=badoalmaz&show_icons=true&locale=en" alt="badoalmaz" /></p>
+<p>&nbsp;<img height="200" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=badoalmaz&show_icons=true&locale=en" alt="badoalmaz" /></p>
 
-<p><img height="200" width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badoalmaz&" alt="badoalmaz" /></p>
-</div>
+<p><img height="200" width="400" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=badoalmaz&" alt="badoalmaz" /></p>
 
