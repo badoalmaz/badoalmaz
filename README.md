@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Altcode](https://altcode.kg/)
 
-- 🌱 I’m currently learning **programming**
+- 🌱 I’m currently learning **Elixir**
 
 - 📫 How to reach me **bado.kuldzhanova@gmail.com**
 
