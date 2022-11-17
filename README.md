@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/bado-almaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bado-almaz" height="30" width="40" /></a>
 <a href="https://fb.com/badoalmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="badoalmaz" height="30" width="40" /></a>
 <a href="https://instagram.com/badoalmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badoalmaz" height="30" width="40" /></a>
-<a href="https://discord.gg/911290548290203739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="911290548290203739" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/911290548290203739/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="911290548290203739" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
