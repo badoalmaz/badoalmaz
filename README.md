@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Bado</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Ohayō, I'm Bado</h1>
+<h3 align="center">web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badoalmaz&label=Profile%20views&color=0e75b6&style=flat" alt="badoalmaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badoalmaz&no-bg=true&margin-w=15" alt="badoalmaz" /></a> </p>
 
-- 🔭 I’m currently working at [Altcode](https://altcode.kg/)
+- 💻 I’m working at [Altcode](https://altcode.kg/)
 
-- 🌱 I’m currently learning **Elixir**
+- 👾 I’m currently learning **Elixir**
 
 - 📫 How to reach me **bado.kuldzhanova@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pt5N9YCVeML67456lzZIs5P-vCcq6g_7/view?usp=sharing](https://drive.google.com/file/d/1pt5N9YCVeML67456lzZIs5P-vCcq6g_7/view?usp=sharing)
+- 📄 Know about my experiences: [cv](https://drive.google.com/file/d/1pt5N9YCVeML67456lzZIs5P-vCcq6g_7/view?usp=sharing)
 
 - 🌱 MBTI **ENFP**
 
