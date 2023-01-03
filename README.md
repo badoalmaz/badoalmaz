@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 Hi, I'm Bado, Frontend Developer
 
-- 💻 I’m working at [Altcode](https://altcode.kg/)
+- 💻 I’m working at Breez
 
 - 👾 I’m currently learning **Elixir**
 
